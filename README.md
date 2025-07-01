@@ -58,8 +58,8 @@ To analyze ride request patterns, trip completion rates, and cancellation trends
 
 ## 🙋‍♀️ Project by
 
-**Shruti Sumadhur Ghosh**  
-June 2025
+**Revatish Anil Sur**  
+July 2025
 
 ---
 
